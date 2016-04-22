@@ -1,0 +1,28 @@
+name: picturejeff
+favicon: null
+layout_spectrum: 0.9697205112315714
+typography_spectrum: 0.03810929995961487
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.23136774473823607
+  lightness: 0.31877283612266183
+  saturation: 0.5113110926467925
+  rhythmicContrast: 0.9486337676644325
+purpose: []
