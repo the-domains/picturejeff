@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: An Independent Google Maps Streetview Trusted Photographer
-datePublished: '2016-04-22T20:03:10.725Z'
-dateModified: '2016-04-22T20:02:33.101Z'
+datePublished: '2016-04-22T21:08:35.142Z'
+dateModified: '2016-04-22T21:08:23.197Z'
 title: 'Jeffrey Scott Zipay '
 author: []
+sourcePath: _posts/2016-04-22-jeffrey-scott-zipay.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-22-jeffrey-scott-zipay.md
-published: true
+starred: true
 url: jeffrey-scott-zipay/index.html
 _type: Article
 
