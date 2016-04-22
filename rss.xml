@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[picturejeff]]></title>
+        <description><![CDATA[picturejeff]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Apr 2016 20:03:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jeffrey Scott Zipay ]]></title>
+            <description><![CDATA[<article><h1>Jeffrey Scott Zipay </h1><p>An Independent Google Maps Streetview Trusted Photographer</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f26de13-1156-4b94-b7ab-a6ebf6500711.jpg"></article>]]></description>
+            <link>undefinedjeffrey-scott-zipay/index.html</link>
+            <guid isPermaLink="false">aeb1123f-88b0-4446-a8fb-0a7df26e2f84</guid>
+            <pubDate>Fri, 22 Apr 2016 20:03:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
