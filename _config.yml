@@ -1,7 +1,7 @@
 name: picturejeff
 favicon: null
-layout_spectrum: 0.9697205112315714
-typography_spectrum: 0.03810929995961487
+layout_spectrum: 1
+typography_spectrum: 0.13485
 cta:
   domain: null
   bucket: null
